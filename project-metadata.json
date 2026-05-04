@@ -1,0 +1,16 @@
+{
+  "title": "Look What I Built",
+  "artist": "Garth Goodwin",
+  "project_type": "Original song / music release package",
+  "theme": "From nothing to something",
+  "created_for": "GitHub repository packaging",
+  "files": [
+    ".gitignore",
+    "LICENSE",
+    "README.md",
+    "assets/look-what-i-built-cover.png",
+    "assets/look-what-i-built.mp3",
+    "assets/look-what-i-built.mp4",
+    "assets/look-what-i-built.wav"
+  ]
+}
