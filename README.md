@@ -29,6 +29,8 @@ This song is for anyone who started with nothing, made mistakes, took the long r
 | `assets/look-what-i-built.mp3` | Compressed audio version for easy listening and sharing |
 | `assets/look-what-i-built.wav` | High-quality audio version |
 | `assets/look-what-i-built.mp4` | Video version for upload or promotion |
+| `assets/look-what-i-built-music-video-7.mp4` | Additional music video version |
+| `assets/look-what-i-built-additional-video.mp4` | Additional video file for upload or promotion |
 
 ## Suggested Repository Structure
 
@@ -41,7 +43,9 @@ look-what-i-built/
     ├── look-what-i-built-cover.png
     ├── look-what-i-built.mp3
     ├── look-what-i-built.wav
-    └── look-what-i-built.mp4
+    ├── look-what-i-built.mp4
+    ├── look-what-i-built-music-video-7.mp4
+    └── look-what-i-built-additional-video.mp4
 ```
 
 ## Suggested GitHub Description
@@ -69,6 +73,7 @@ garth-goodwin
 - Added MP3 audio
 - Added WAV audio
 - Added MP4 video
+- Added additional MP4 music video files
 - Added GitHub-ready README documentation
 
 ## Credits
